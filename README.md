@@ -35,18 +35,36 @@ Você pode acessar a demonstração do projeto em: [link-aqui](https://example.c
 ## Estrutura de Arquivos
 
 ```plaintext
-portfolio/
-├── public/
-├── src/
-│   ├── components/
-│   │   ├── AboutMe.jsx           # Página "Sobre Mim"
-│   │   ├── ContactForm.jsx       # Formulário de Contato
-│   │   ├── Footer.jsx            # Rodapé
-│   │   ├── Menu.jsx              # Menu de Navegação
-│   │   └── ProjectList.jsx       # Lista de Projetos
-│   ├── pages/
-│   │   └── ProjectDetails.jsx    # Detalhes do Projeto
-│   ├── App.jsx                   # Estrutura principal da aplicação
-│   ├── index.css                 # Estilos globais
-│   └── main.jsx                  # Ponto de entrada
-└── README.md                     # Documentação
+C:.
+│   .gitignore
+│   eslint.config.js
+│   index.html
+│   package-lock.json
+│   package.json
+│   postcss.config.js
+│   README.md
+│   tailwind.config.js
+│   vite.config.js
+│
+├───public
+│       vite.svg
+│
+└───src
+    │   App.css
+    │   App.jsx
+    │   index.css
+    │   main.jsx
+    │
+    ├───assets
+    │       react.svg
+    │
+    ├───components
+    │       AboutMe.jsx
+    │       ContactForm.jsx
+    │       Footer.jsx
+    │       Menu.jsx
+    │       ProjectList.jsx
+    │
+    └───pages
+            ProjectDetails.jsx
+
