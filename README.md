@@ -12,10 +12,6 @@ O portfólio de Eric visa apresentar suas habilidades em Engenharia de Software 
 - **Modo Noturno** para facilitar a leitura em diferentes ambientes.
 - **Links de Mídias Sociais** com destaque no GitHub e LinkedIn.
 
-## Demonstração
-
-Você pode acessar a demonstração do projeto em: [link-aqui](https://example.com)
-
 ## Funcionalidades
 
 - **Navegação com Rotas**: Menu de navegação utilizando rotas do React Router.
