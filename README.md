@@ -1,4 +1,5 @@
 # Portfólio de Eric Yuji Ito
+https://portfolio-cp-sigma.vercel.app/
 
 Este é o repositório do portfólio pessoal de Eric Yuji Ito, desenvolvido com React, Vite, TailwindCSS e JavaScript. O site destaca habilidades, projetos e informações de contato.
 
